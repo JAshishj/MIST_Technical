@@ -3,7 +3,7 @@ A cipher is a method used to convert readable information (plaintext) into an un
 
 Ciphers can be classical, based on simple letter substitutions or shifts, or modern, using complex mathematical algorithms to secure digital communication. They form the foundation of cryptography and are widely used in secure messaging, data protection, network security, and authentication systems.
 
-## **<ins>Tpes of ciphers</ins>**:-
+# **<ins>Types of ciphers</ins>**:-
 
 ### **1.<ins>Base64</ins>**:-
 **<ins>Category</ins>**: Encoding (not encryption)
