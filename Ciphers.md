@@ -7,10 +7,12 @@ Ciphers can be classical, based on simple letter substitutions or shifts, or mod
 
 ### **1.<ins>Base64</ins>**:-
 **<ins>Category</ins>**: Encoding (not encryption)
+
 Base64 converts binary data into ASCII characters using a 64-symbol set. It ensures safe text transmission over systems that may not handle binary data correctly. Base64 provides no confidentiality because the process is fully reversible without a key. It is widely used in email encoding, image embedding, and data transfer in web technologies.
 
 ### **2.<ins>Caesar Cipher</ins>**:-
 **<ins>Category</ins>**: Classical substitution
+
 The Caesar cipher shifts every letter in the plaintext by a fixed number of positions. For example, a shift of 3 replaces A→D, B→E, etc. Although historically important, it is trivial to defeat. Only 25 possible keys exist, allowing easy brute-force attacks and frequency analysis.
 
 ### **3.<ins>Vigenère Cipher</ins>**:-
